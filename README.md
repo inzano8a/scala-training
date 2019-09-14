@@ -1,0 +1,2 @@
+# scala-training
+Scala Training
